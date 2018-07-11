@@ -1,0 +1,112 @@
+.footer {
+    background-color: rgb(233, 233, 233);
+}
+.f-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #222;
+    color: aliceblue;
+    height: 113px;
+}
+
+.email {
+    padding-right: 100px;
+}
+
+.f-logo {
+    margin-left: 50px;
+}
+
+#sign-email {
+    border: 0px solid #222;
+    padding: 10px 100px 10px 5px;
+}
+
+.fa-envelope-open {
+    padding-right: 10px;
+}
+
+#singup-text {
+    padding-right: 30px;
+}
+
+.arrow {
+    align-content: center;
+    background-color: red;
+    border: 1px solid #222;
+    padding: 10px 15px 10px 10px; 
+    bottom: 50px;
+}
+
+.fa-arrow-right {
+    color: white;
+}
+
+.information {
+    display: flex;
+    padding: 20px 0 0 0;
+    justify-content: space-between;
+}
+
+.contact {
+    margin-left: 50px;
+    text-align-last: left;
+    
+}
+
+h3 {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid white;
+    width: 200px;
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+.icons {
+    margin-left: 0;
+    padding: 5px;
+}
+
+.f-detail {
+    font-size: 1em;
+    font-weight: 300;
+}
+
+.none-link {
+    color: black;
+    font-weight: 300;
+}
+
+.location {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+    /* Support Section */
+
+.f-support {
+    text-align-last: left;
+}
+
+.support {
+    display: flex;
+    justify-content: space-around;
+}
+
+.f-support1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.about {
+    display: flex;
+    justify-content: space-around;
+}
+
+.f-about1 {
+    display: flex;
+    flex-direction: column;
+}
